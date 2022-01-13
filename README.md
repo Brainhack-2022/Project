@@ -1,2 +1,1 @@
-# projekcik
-jakiś projekcik
+# Project description
